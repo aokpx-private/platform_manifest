@@ -248,7 +248,7 @@
   <project path="frameworks/testing" name="platform/frameworks/testing" />
   <project path="frameworks/wilhelm" name="aokpx/platform_frameworks_wilhelm" remote="aokp" revision="jb-mr1" />
   <project path="gdk" name="platform/gdk" />
-  <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
+  <project path="hardware/broadcom/wlan" name="android_hardware_broadcom_wlan" remote="cm" revision="mr1.1-staging" />
   <project path="hardware/invensense" name="platform/hardware/invensense" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="cm" revision="mr1.1-staging" />
   <project path="hardware/libhardware_legacy" name="aokpx-private/platform_hardware_libhardware_legacy" remote="aokp" revision="jb-mr1.1" />
@@ -267,7 +267,7 @@
   <project path="hardware/qcom/sensors" name="platform/hardware/qcom/sensors" />
   <project path="hardware/qcom/wlan" name="platform/hardware/qcom/wlan" />
   <project path="hardware/ril" name="android_hardware_ril" remote="cm" revision="mr1.1-staging" />
-  <project path="hardware/samsung" name="android_hardware_samsung" remote="cm" revision="mr1.1-staging" />
+  <project path="hardware/samsung" name="android_hardware_samsung" remote="cm" revision="cm-10.1" />
   <project path="hardware/samsung_slsi/exynos5" name="platform/hardware/samsung_slsi/exynos5" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
   <project path="hardware/ti/omap4xxx" name="aokpx/platform_hardware_ti_omap4xxx" remote="aokp" revision="jb-mr1" />
