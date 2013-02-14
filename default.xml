@@ -63,7 +63,7 @@
   <project path="device/samsung/toroplus" name="AOKP/device_samsung_toroplus" remote="aokp" revision="jb-mr1" />
   <project path="device/samsung/tuna" name="aokpx/platform_device_samsung_tuna" remote="aokp" revision="jb-mr1" />
   <project path="device/samsung/qcom-common" name="AOKP/device_samsung_qcom-common" remote="aokp" revision="jb-mr1" />
-  <project path="device/ti/panda" name="device/ti/panda" groups="device" />
+  <project path="device/ti/panda" name="device/ti/panda" groups="device" revision="jb-mr1-dev" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
   <project path="external/android-clat" name="platform/external/android-clat" />
@@ -268,7 +268,7 @@
   <project path="hardware/qcom/wlan" name="platform/hardware/qcom/wlan" />
   <project path="hardware/ril" name="android_hardware_ril" remote="cm" revision="mr1.1-staging" />
   <project path="hardware/samsung" name="android_hardware_samsung" remote="cm" revision="cm-10.1" />
-  <project path="hardware/samsung_slsi/exynos5" name="platform/hardware/samsung_slsi/exynos5" />
+  <project path="hardware/samsung_slsi/exynos5" name="platform/hardware/samsung_slsi/exynos5" revision="jb-mr1-dev" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" revision="jb-mr1-dev" />
   <project path="hardware/ti/omap4xxx" name="aokpx/platform_hardware_ti_omap4xxx" remote="aokp" revision="jb-mr1" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" revision="jb-mr1-dev" />
