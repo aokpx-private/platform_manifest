@@ -249,7 +249,7 @@
   <project path="frameworks/wilhelm" name="aokpx/platform_frameworks_wilhelm" remote="aokp" revision="jb-mr1" />
   <project path="gdk" name="platform/gdk" />
   <project path="hardware/broadcom/wlan" name="android_hardware_broadcom_wlan" remote="cm" revision="mr1.1-staging" />
-  <project path="hardware/invensense" name="platform/hardware/invensense" />
+  <project path="hardware/invensense" name="platform/hardware/invensense" revision="jb-mr1-dev" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="cm" revision="mr1.1-staging" />
   <project path="hardware/libhardware_legacy" name="aokpx-private/platform_hardware_libhardware_legacy" remote="aokp" revision="jb-mr1.1" />
   <project path="hardware/msm7k" name="android_hardware_msm7k" remote="cm" revision="mr1.1-staging" />
@@ -271,7 +271,7 @@
   <project path="hardware/samsung_slsi/exynos5" name="platform/hardware/samsung_slsi/exynos5" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
   <project path="hardware/ti/omap4xxx" name="aokpx/platform_hardware_ti_omap4xxx" remote="aokp" revision="jb-mr1" />
-  <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
+  <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" revision="jb-mr1-dev" />
   <project path="hardware/ti/wpan" name="platform/hardware/ti/wpan" />
   <project path="kernel/samsung/tuna" name="existz/android_kernel_samsung_tuna" remote="aokp" revision="android-omap-tuna-3.0" />
   <project path="libcore" name="aokpx-private/platform_libcore" remote="aokp" revision="jb-mr1.1" />
